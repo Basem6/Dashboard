@@ -23,6 +23,13 @@ aside > :not(.logo).active{
     top: 4px;
     right: 3px;
 }
+/* edit{
+    background-color: transparent;
+    border: none;
+    color: #78abf2;
+    font-size: 1.1em;
+    font-weight: 500;
+} */
 .cards .card {
     border: 2px solid;
     border-image: linear-gradient(75deg, #0f1219,#0f1219,#0f1219, #92bcf8);
